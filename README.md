@@ -2,6 +2,7 @@
 # Rapport
 
 **Skriv din rapport här!**
+
 Jag ändrade i content_main.xml, jag ändrade android:text, i taggen TextView, från "Hello World!" Till "Konichiwa"
 
 ```
