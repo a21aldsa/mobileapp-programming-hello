@@ -2,6 +2,18 @@
 # Rapport
 
 **Skriv din rapport här!**
+Jag ändrade i content_main.xml, jag ändrade android:text, i taggen TextView, från "Hello World!" Till "Konichiwa"
+
+```
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Konichiwa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+```
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
@@ -33,7 +45,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](konichiwa.png)
 
 Läs gärna:
 
